@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: wfReminder
+## Notes: Shaman's weapon imbue reminder addon, made by Gruks
+## Author: Gruks
+## Version: 1.1
+
+wfReminder.lua
