@@ -1,6 +1,7 @@
 WfReminder - Shaman's weapon imbue tracker addon, made by Gruks
 
 How it looks like:
+
 ![Example screenshot](images/wfExampleForReadme.png)
 
 At start please note that while I'm a coder for 13years (that's paid time only),
